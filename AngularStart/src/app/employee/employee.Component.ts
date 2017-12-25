@@ -9,7 +9,7 @@ import {} from ''
 export class EmployeeComponent implements OnChanges{
     colSpan: number = 2;
     @Input() simpleinput: string;
-    firstName: string = 'Alka';
+    firstName: string = 'Alka Rathore';
     lastName: string = 'Rathore';
     gender: string = 'Female';
     age: number = 25;
