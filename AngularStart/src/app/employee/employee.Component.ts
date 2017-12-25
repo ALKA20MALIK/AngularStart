@@ -10,7 +10,7 @@ export class EmployeeComponent implements OnChanges{
     colSpan: number = 2;
     @Input() simpleinput: string;
     firstName: string = 'Alka';
-    lastName: string = 'Malik';
+    lastName: string = 'Rathore';
     gender: string = 'Female';
     age: number = 25;
     showDetails: boolean = false;
